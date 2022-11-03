@@ -3,3 +3,9 @@
 ```
 windows + v
 ```
+
+# Lock windows
+
+```
+windows + l
+```
