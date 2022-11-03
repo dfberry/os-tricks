@@ -1,0 +1,5 @@
+# Clipboard History
+
+```
+windows + v
+```
